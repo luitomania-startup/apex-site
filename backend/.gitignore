@@ -1,0 +1,7 @@
+node_modules/
+images/
+events_attachments/
+resumes/
+package-lock.json
+yarn.lock
+config/
